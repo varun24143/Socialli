@@ -2,11 +2,16 @@
 
 * [Socialli](README.md)
 
-## Guides
+## Socialli
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Problems and Solutions](socialli-1/problems-and-solutions.md)
+* [Socialli Architecture](socialli-1/socialli-architecture.md)
+* [Advanced permissions](socialli-1/advanced-permissions.md)
+
+***
+
+* [Milestones](milestones/README.md)
+  * [Page 1](milestones/page-1.md)
 
 ## Socialli Components
 
@@ -14,10 +19,12 @@
 * [Governance](socialli-components/governance.md)
 * [Virtual World Design](socialli-components/virtual-world-design.md)
 * [Metaverse](socialli-components/metaverse.md)
-* [Tasks](socialli-components/tasks.md)
-* [Copy of Tasks](socialli-components/copy-of-tasks.md)
-* [Copy of Tasks](socialli-components/copy-of-tasks-1.md)
-* [Copy of Tasks](socialli-components/copy-of-tasks-2.md)
+* [Land Parcels](socialli-components/land-parcels.md)
+* [NFTs](socialli-components/nfts.md)
+* [Marketplace](socialli-components/marketplace.md)
+* [Meta Teleporting](socialli-components/meta-teleporting.md)
+* [Bridges](socialli-components/bridges.md)
+* [DeFi](socialli-components/defi.md)
 
 ## Use Cases
 

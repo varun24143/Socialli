@@ -32,16 +32,16 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides/creating-your-first-project.md)
+{% content-ref url="socialli-1/problems-and-solutions.md" %}
+[problems-and-solutions.md](socialli-1/problems-and-solutions.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
+{% content-ref url="socialli-1/socialli-architecture.md" %}
+[socialli-architecture.md](socialli-1/socialli-architecture.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
+{% content-ref url="socialli-1/advanced-permissions.md" %}
+[advanced-permissions.md](socialli-1/advanced-permissions.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -64,8 +64,8 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [metaverse.md](socialli-components/metaverse.md)
 {% endcontent-ref %}
 
-{% content-ref url="socialli-components/tasks.md" %}
-[tasks.md](socialli-components/tasks.md)
+{% content-ref url="socialli-components/land-parcels.md" %}
+[land-parcels.md](socialli-components/land-parcels.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
