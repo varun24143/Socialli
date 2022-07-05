@@ -4,9 +4,9 @@
 
 ## Socialli
 
+* [Goals](socialli-1/goals.md)
 * [Problems and Solutions](socialli-1/problems-and-solutions.md)
 * [Socialli Architecture](socialli-1/socialli-architecture.md)
-* [Advanced permissions](socialli-1/advanced-permissions.md)
 
 ***
 
