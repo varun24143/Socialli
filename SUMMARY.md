@@ -34,8 +34,8 @@
   * [GitHub Integration](use-cases/for-developers/github-integration.md)
 * [For Designers](use-cases/for-designers/README.md)
   * [Intercom Integration](use-cases/for-designers/intercom-integration.md)
-* [For Stakers](use-cases/for-stakers/README.md)
-  * [Intercom Integration](use-cases/for-stakers/intercom-integration.md)
+* [For Consumers](use-cases/for-consumers/README.md)
+  * [Intercom Integration](use-cases/for-consumers/intercom-integration.md)
 
 ## Extras
 

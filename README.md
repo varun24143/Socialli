@@ -26,12 +26,16 @@ All metaverses built on Socialli will be able to exchange tokens and assets. But
 
 Follow our handy guides to get started on understanding the basics as quickly as possible:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="socialli-1/goals.md" %}
+[goals.md](socialli-1/goals.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="socialli-1/problems-and-solutions.md" %}
+[problems-and-solutions.md](socialli-1/problems-and-solutions.md)
+{% endcontent-ref %}
+
+{% content-ref url="socialli-1/socialli-architecture.md" %}
+[socialli-architecture.md](socialli-1/socialli-architecture.md)
 {% endcontent-ref %}
 
 ### Socialli Components: Dive a little deeper
